@@ -75,7 +75,7 @@ This project aimed to clean and analyze global tech layoff data between **2022 a
 
 *Sample visualization design (for future Power BI / Tableau deployment)*
 
-![Dashboard Preview](assets/Tech_Layoffs_Analysis.png)
+![Dashboard Preview](assets/Tech%Layoffs%Analysis.png)
 
 
 ---
